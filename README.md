@@ -1,2 +1,2 @@
 # hello-world
-tutorial I guess
+A bit about myself
